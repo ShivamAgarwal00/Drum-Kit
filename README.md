@@ -1,7 +1,7 @@
 # Drum-Kit
-Test your vibes with the Drum online ->> https://drumm-kiit.netlify.app/
+- Test your vibes with the Drum online ->> https://drumm-kiit.netlify.app/
 
-It contains diffrent musical instruments to play sounds.
+- It contains different musical instruments to play sounds.
 
-We can use both Mouse as well as Keyboard.
+- We can use both Mouse as well as Keyboard.
 
