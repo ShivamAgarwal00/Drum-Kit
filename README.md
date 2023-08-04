@@ -1,5 +1,5 @@
 # Drum-Kit
-- Test your vibes with the Drum online ->> https://drumm-kiit.netlify.app/](https://drumm-kiit.netlify.app/
+- Test your vibes with the Drum online ->> https://drumm-kiit.netlify.app/
 
 - It contains different musical instruments to play sounds.
 
